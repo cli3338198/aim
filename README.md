@@ -5,8 +5,6 @@
 
 A chat app inspired by AOL instant messenger.
 
-[Try it out](https://aim-clone2.herokuapp.com/)
-
 <li>PostgresSQL for storing user login info, buddies, etc.</li>
 <li>Redis for caching current online users.</li>
 <li>Web sockets for all client-server interactions.</li>
