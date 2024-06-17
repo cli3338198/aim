@@ -2,6 +2,8 @@
 
 ![DEMO](/client/public/screenshot1.jpg)
 ![DEMO](/client/public/screenshot2.jpg)
+![DIAGRAM](/client/public/frontend7.png)
+![DIAGRAM](/client/public/backend2.png)
 
 A chat app inspired by AOL instant messenger.
 
